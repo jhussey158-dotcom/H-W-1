@@ -1,7 +1,7 @@
 body {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: darkgray;
+    background-color: white;
     margin: 0;
     text-align: center;
 }
@@ -40,7 +40,7 @@ body {
     position: absolute;
     width: 100%;
     bottom: 0;
-    background-color: Green;
+    background-color: red;
     color: white;
     height: 50px;
 }
