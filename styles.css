@@ -5,7 +5,10 @@ body {
     margin: 0;
     text-align: center;
 }
+#links{
+display: flex;
 
+}
 #content {
     position: relative;
     background-color: white;
