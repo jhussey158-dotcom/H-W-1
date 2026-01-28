@@ -41,9 +41,17 @@ display: flex;
 
 #footer-container {
     position: absolute;
-    width: 100%;
+    width: 50%;
     bottom: 0;
-    background-color: red;
+    background-color: wheat;
     color: white;
     height: 50px;
+}
+
+.link{
+    background-color: beige;
+    width: 100px;
+    height: 10px;
+    color: black;
+    border: 2px solid wheat;
 }
