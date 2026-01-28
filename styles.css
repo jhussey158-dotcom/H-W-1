@@ -47,11 +47,14 @@ display: flex;
     color: white;
     height: 50px;
 }
-
+#link logo-container {
+    display:flex
+    justify-content: center 
+}
 .link{
     background-color: beige;
     width: 100px;
     height: 10px;
     color: black;
     border: 2px solid wheat;
-}
+} 
