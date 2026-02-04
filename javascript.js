@@ -14,4 +14,4 @@ images[imageNumber].scrollIntoView({behavior: "smooth", block: "start", inline: 
 
 const carousel = document.getElementById("image-carousel");
 
-carousel.addEventListener("click", nextIma
+carousel.addEventListener("click", nextImage);
