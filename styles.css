@@ -44,7 +44,7 @@ display: flex;
     width: 200%;
     bottom: 1;
     background-color: wheat;
-    color: white;
+    color: rgb(27, 27, 27);
     height: 50px;
 }
 #link logo-container {
